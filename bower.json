@@ -1,0 +1,12 @@
+{
+  "name": "sendit-sendicon",
+  "authors": [
+    "Sittipong Haus <sittipong_bor@sendit.asia>"
+  ],
+  "description": "Icon font for send it.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://www.sendit.asia",
+  "private": true
+}

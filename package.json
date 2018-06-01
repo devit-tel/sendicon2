@@ -1,0 +1,19 @@
+{
+  "name": "sendicon-font",
+  "version": "1.0.0",
+  "description": "Font icon for Sendit",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/sittipong/sendicon.git"
+  },
+  "author": "Sittipong HAUS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/sittipong/sendicon/issues"
+  },
+  "homepage": "https://gitlab.com/sittipong/sendicon#README"
+}

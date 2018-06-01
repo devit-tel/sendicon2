@@ -1,0 +1,308 @@
+@font-face {
+  font-family: 'sendicon';
+  src:  url('fonts/sendicon.eot?2ax0k6');
+  src:  url('fonts/sendicon.eot?2ax0k6#iefix') format('embedded-opentype'),
+    url('fonts/sendicon.ttf?2ax0k6') format('truetype'),
+    url('fonts/sendicon.woff?2ax0k6') format('woff'),
+    url('fonts/sendicon.svg?2ax0k6#sendicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="sendicon-"], [class*=" sendicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sendicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sendicon-icon-assign-door:before {
+  content: "\e95d";
+}
+.sendicon-icon-multicase:before {
+  content: "\e95c";
+}
+.sendicon-icon-question:before {
+  content: "\e95b";
+}
+.sendicon-icon-toast:before {
+  content: "\e950";
+}
+.sendicon-icon-trade:before {
+  content: "\e951";
+}
+.sendicon-icon-transfer:before {
+  content: "\e952";
+}
+.sendicon-icon-u-turn:before {
+  content: "\e953";
+}
+.sendicon-icon-ui:before {
+  content: "\e954";
+}
+.sendicon-icon-ux:before {
+  content: "\e955";
+}
+.sendicon-icon-vehicle:before {
+  content: "\e956";
+}
+.sendicon-icon-wheat:before {
+  content: "\e957";
+}
+.sendicon-icon-rocket:before {
+  content: "\e958";
+}
+.sendicon-icon-setting:before {
+  content: "\e959";
+}
+.sendicon-icon-star:before {
+  content: "\e95a";
+}
+.sendicon-icon-7:before {
+  content: "\e900";
+}
+.sendicon-icon-add:before {
+  content: "\e901";
+}
+.sendicon-icon-alarm:before {
+  content: "\e902";
+}
+.sendicon-icon-arrow-left:before {
+  content: "\e903";
+}
+.sendicon-icon-arrow-right:before {
+  content: "\e904";
+}
+.sendicon-icon-attachment:before {
+  content: "\e905";
+}
+.sendicon-icon-bag:before {
+  content: "\e906";
+}
+.sendicon-icon-barcode:before {
+  content: "\e907";
+}
+.sendicon-icon-calendar:before {
+  content: "\e908";
+}
+.sendicon-icon-camera:before {
+  content: "\e909";
+}
+.sendicon-icon-cash:before {
+  content: "\e90a";
+}
+.sendicon-icon-checkbox-checked:before {
+  content: "\e90b";
+}
+.sendicon-icon-checkbox-uncheck:before {
+  content: "\e90c";
+}
+.sendicon-icon-checked:before {
+  content: "\e90d";
+}
+.sendicon-icon-checkout:before {
+  content: "\e90e";
+}
+.sendicon-icon-clock-active:before {
+  content: "\e90f";
+}
+.sendicon-icon-clock-history:before {
+  content: "\e910";
+}
+.sendicon-icon-clock-schedule:before {
+  content: "\e911";
+}
+.sendicon-icon-close:before {
+  content: "\e912";
+}
+.sendicon-icon-courier:before {
+  content: "\e913";
+}
+.sendicon-icon-crossed:before {
+  content: "\e914";
+}
+.sendicon-icon-dashboard-2:before {
+  content: "\e915";
+}
+.sendicon-icon-dashboard-3:before {
+  content: "\e916";
+}
+.sendicon-icon-dashboard-4:before {
+  content: "\e917";
+}
+.sendicon-icon-dashboard-full:before {
+  content: "\e918";
+}
+.sendicon-icon-dashboard:before {
+  content: "\e919";
+}
+.sendicon-icon-data-entry:before {
+  content: "\e91a";
+}
+.sendicon-icon-delivering:before {
+  content: "\e91b";
+}
+.sendicon-icon-department:before {
+  content: "\e91c";
+}
+.sendicon-icon-document:before {
+  content: "\e91d";
+}
+.sendicon-icon-dollar:before {
+  content: "\e91e";
+}
+.sendicon-icon-driver:before {
+  content: "\e91f";
+}
+.sendicon-icon-edit:before {
+  content: "\e920";
+}
+.sendicon-icon-email:before {
+  content: "\e921";
+}
+.sendicon-icon-expand:before {
+  content: "\e922";
+}
+.sendicon-icon-fullscreen:before {
+  content: "\e923";
+}
+.sendicon-icon-getting-location:before {
+  content: "\e924";
+}
+.sendicon-icon-group:before {
+  content: "\e925";
+}
+.sendicon-icon-home:before {
+  content: "\e926";
+}
+.sendicon-icon-info:before {
+  content: "\e927";
+}
+.sendicon-icon-less-circle:before {
+  content: "\e928";
+}
+.sendicon-icon-less:before {
+  content: "\e929";
+}
+.sendicon-icon-list:before {
+  content: "\e92a";
+}
+.sendicon-icon-loading:before {
+  content: "\e92b";
+}
+.sendicon-icon-location:before {
+  content: "\e92c";
+}
+.sendicon-icon-lock:before {
+  content: "\e92d";
+}
+.sendicon-icon-menu-active:before {
+  content: "\e92e";
+}
+.sendicon-icon-message:before {
+  content: "\e92f";
+}
+.sendicon-icon-money:before {
+  content: "\e930";
+}
+.sendicon-icon-moneybag:before {
+  content: "\e931";
+}
+.sendicon-icon-more-circle:before {
+  content: "\e932";
+}
+.sendicon-icon-more-icon:before {
+  content: "\e933";
+}
+.sendicon-icon-more:before {
+  content: "\e934";
+}
+.sendicon-icon-office:before {
+  content: "\e935";
+}
+.sendicon-icon-parcel:before {
+  content: "\e936";
+}
+.sendicon-icon-people-circle:before {
+  content: "\e937";
+}
+.sendicon-icon-people:before {
+  content: "\e938";
+}
+.sendicon-icon-phone:before {
+  content: "\e939";
+}
+.sendicon-icon-pickup:before {
+  content: "\e93a";
+}
+.sendicon-icon-pin-map:before {
+  content: "\e93b";
+}
+.sendicon-icon-pin:before {
+  content: "\e93c";
+}
+.sendicon-icon-pop-out:before {
+  content: "\e93d";
+}
+.sendicon-icon-poweroff:before {
+  content: "\e93e";
+}
+.sendicon-icon-profile:before {
+  content: "\e93f";
+}
+.sendicon-icon-recieve-cod:before {
+  content: "\e940";
+}
+.sendicon-icon-return:before {
+  content: "\e941";
+}
+.sendicon-icon-search:before {
+  content: "\e942";
+}
+.sendicon-icon-send:before {
+  content: "\e943";
+}
+.sendicon-icon-settings:before {
+  content: "\e944";
+}
+.sendicon-icon-sorting:before {
+  content: "\e945";
+}
+.sendicon-icon-statistic:before {
+  content: "\e946";
+}
+.sendicon-icon-sync:before {
+  content: "\e947";
+}
+.sendicon-icon-timer:before {
+  content: "\e948";
+}
+.sendicon-icon-trash:before {
+  content: "\e949";
+}
+.sendicon-icon-unview:before {
+  content: "\e94a";
+}
+.sendicon-icon-upload:before {
+  content: "\e94b";
+}
+.sendicon-icon-view:before {
+  content: "\e94c";
+}
+.sendicon-icon-warehouse:before {
+  content: "\e94d";
+}
+.sendicon-icon-world-minimal:before {
+  content: "\e94e";
+}
+.sendicon-icon-world:before {
+  content: "\e94f";
+}
