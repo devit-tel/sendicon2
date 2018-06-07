@@ -14,7 +14,6 @@
 	}
 	var icons = {
 		'sendicon-icon-route': '&#xe95e;',
-		'sendicon-icon-dc': '&#xe95f;',
 		'sendicon-icon-assign-door': '&#xe95d;',
 		'sendicon-icon-multicase': '&#xe95c;',
 		'sendicon-icon-question': '&#xe95b;',
