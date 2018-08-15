@@ -15,7 +15,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "icon-checkbox-cancel"
+          "icon-failed"
         ]
       },
       "attrs": [
@@ -23,9 +23,9 @@
         {}
       ],
       "properties": {
-        "order": 216,
+        "order": 217,
         "id": 98,
-        "name": "icon-checkbox-cancel",
+        "name": "icon-failed",
         "prevSize": 32,
         "code": 59746
       },

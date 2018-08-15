@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'sendicon';
-  src:  url('fonts/sendicon.eot?tc6o3o');
-  src:  url('fonts/sendicon.eot?tc6o3o#iefix') format('embedded-opentype'),
-    url('fonts/sendicon.ttf?tc6o3o') format('truetype'),
-    url('fonts/sendicon.woff?tc6o3o') format('woff'),
-    url('fonts/sendicon.svg?tc6o3o#sendicon') format('svg');
+  src:  url('fonts/sendicon.eot?9s332f');
+  src:  url('fonts/sendicon.eot?9s332f#iefix') format('embedded-opentype'),
+    url('fonts/sendicon.ttf?9s332f') format('truetype'),
+    url('fonts/sendicon.woff?9s332f') format('woff'),
+    url('fonts/sendicon.svg?9s332f#sendicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,7 +24,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.sendicon-icon-checkbox-cancel:before {
+.sendicon-icon-failed:before {
   content: "\e962";
 }
 .sendicon-icon-monitor:before {
