@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ug4wfq');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ug4wfq#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ug4wfq') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ug4wfq') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ug4wfq##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?tc6o3o') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?tc6o3o') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?tc6o3o##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.sendicon-icon-checkbox-cancel {
+  &:before {
+    content: $sendicon-icon-checkbox-cancel; 
+  }
+}
 .sendicon-icon-monitor {
   &:before {
     content: $sendicon-icon-monitor; 
