@@ -1,73 +1,4 @@
-.sendicon-icon--motocycle {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe963;');
-}
-.sendicon-icon-assign-01 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe964;');
-}
-.sendicon-icon-assign-sub {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe965;');
-}
-.sendicon-icon-attachment-01 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe966;');
-}
-.sendicon-icon-backpack {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe967;');
-}
-.sendicon-icon-bar-chart {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;');
-}
-.sendicon-icon-calculator {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe969;');
-}
-.sendicon-icon-clone {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96a;');
-}
-.sendicon-icon-filter {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96b;');
-}
-.sendicon-icon-folder {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96c;');
-}
-.sendicon-icon-heart {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96d;');
-}
-.sendicon-icon-loading-2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96e;');
-}
-.sendicon-icon-Navi {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96f;');
-}
-.sendicon-icon-parcel-sorting {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe970;');
-}
-.sendicon-icon-slash-mini {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe971;');
-}
-.sendicon-icon-slash {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe972;');
-}
-.sendicon-icon-sort {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe973;');
-}
-.sendicon-icon-store {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe974;');
-}
-.sendicon-icon-tag {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe975;');
-}
-.sendicon-icon-truck-4w {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe976;');
-}
-.sendicon-icon-truck-6w2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe977;');
-}
-.sendicon-icon-truck-6w {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe978;');
-}
-.sendicon-icon-truck-10w {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe979;');
-}
-.sendicon-icon-alarm {
+.sendicon-icon-failed {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe962;');
 }
 .sendicon-icon-monitor {
@@ -130,7 +61,7 @@
 .sendicon-icon-add {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
 }
-.sendicon-icon-alarm2 {
+.sendicon-icon-alarm {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
 }
 .sendicon-icon-arrow-left {

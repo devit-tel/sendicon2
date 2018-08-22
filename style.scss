@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?cxf0ow');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?cxf0ow#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?cxf0ow') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?cxf0ow') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?cxf0ow##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?9s332f');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?9s332f#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?9s332f') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?9s332f') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?9s332f##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,124 +26,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.sendicon-icon--motocycle {
+.sendicon-icon-failed {
   &:before {
-    content: $sendicon-icon--motocycle; 
-  }
-}
-.sendicon-icon-assign-01 {
-  &:before {
-    content: $sendicon-icon-assign-01; 
-  }
-}
-.sendicon-icon-assign-sub {
-  &:before {
-    content: $sendicon-icon-assign-sub; 
-  }
-}
-.sendicon-icon-attachment-01 {
-  &:before {
-    content: $sendicon-icon-attachment-01; 
-  }
-}
-.sendicon-icon-backpack {
-  &:before {
-    content: $sendicon-icon-backpack; 
-  }
-}
-.sendicon-icon-bar-chart {
-  &:before {
-    content: $sendicon-icon-bar-chart; 
-  }
-}
-.sendicon-icon-calculator {
-  &:before {
-    content: $sendicon-icon-calculator; 
-  }
-}
-.sendicon-icon-clone {
-  &:before {
-    content: $sendicon-icon-clone; 
-  }
-}
-.sendicon-icon-filter {
-  &:before {
-    content: $sendicon-icon-filter; 
-  }
-}
-.sendicon-icon-folder {
-  &:before {
-    content: $sendicon-icon-folder; 
-  }
-}
-.sendicon-icon-heart {
-  &:before {
-    content: $sendicon-icon-heart; 
-  }
-}
-.sendicon-icon-loading-2 {
-  &:before {
-    content: $sendicon-icon-loading-2; 
-  }
-}
-.sendicon-icon-Navi {
-  &:before {
-    content: $sendicon-icon-Navi; 
-  }
-}
-.sendicon-icon-parcel-sorting {
-  &:before {
-    content: $sendicon-icon-parcel-sorting; 
-  }
-}
-.sendicon-icon-slash-mini {
-  &:before {
-    content: $sendicon-icon-slash-mini; 
-  }
-}
-.sendicon-icon-slash {
-  &:before {
-    content: $sendicon-icon-slash; 
-  }
-}
-.sendicon-icon-sort {
-  &:before {
-    content: $sendicon-icon-sort; 
-  }
-}
-.sendicon-icon-store {
-  &:before {
-    content: $sendicon-icon-store; 
-  }
-}
-.sendicon-icon-tag {
-  &:before {
-    content: $sendicon-icon-tag; 
-  }
-}
-.sendicon-icon-truck-4w {
-  &:before {
-    content: $sendicon-icon-truck-4w; 
-  }
-}
-.sendicon-icon-truck-6w2 {
-  &:before {
-    content: $sendicon-icon-truck-6w2; 
-  }
-}
-.sendicon-icon-truck-6w {
-  &:before {
-    content: $sendicon-icon-truck-6w; 
-  }
-}
-.sendicon-icon-truck-10w {
-  &:before {
-    content: $sendicon-icon-truck-10w; 
-  }
-}
-.sendicon-icon-alarm {
-  &:before {
-    content: $sendicon-icon-alarm; 
+    content: $sendicon-icon-failed; 
   }
 }
 .sendicon-icon-monitor {
@@ -246,9 +131,9 @@
     content: $sendicon-icon-add; 
   }
 }
-.sendicon-icon-alarm2 {
+.sendicon-icon-alarm {
   &:before {
-    content: $sendicon-icon-alarm2; 
+    content: $sendicon-icon-alarm; 
   }
 }
 .sendicon-icon-arrow-left {
@@ -418,8 +303,7 @@
 }
 .sendicon-icon-getting-location {
   &:before {
-    content: $sendicon-icon-getting-location;     
-    color: #fff;
+    content: $sendicon-icon-getting-location; 
   }
 }
 .sendicon-icon-group {
