@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'sendicon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+<<<<<<< HEAD
 		'sendicon-icon--motocycle': '&#xe963;',
 		'sendicon-icon-assign-01': '&#xe964;',
 		'sendicon-icon-assign-sub': '&#xe965;',
@@ -37,6 +38,9 @@
 		'sendicon-icon-truck-6w': '&#xe978;',
 		'sendicon-icon-truck-10w': '&#xe979;',
 		'sendicon-icon-alarm': '&#xe962;',
+=======
+		'sendicon-icon-checkbox-cancel': '&#xe962;',
+>>>>>>> parent of 7f3cd6c... add failed icon
 		'sendicon-icon-monitor': '&#xe961;',
 		'sendicon-icon-line': '&#xe95f;',
 		'sendicon-icon-routes': '&#xe960;',

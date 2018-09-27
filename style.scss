@@ -2,11 +2,19 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
+<<<<<<< HEAD
   src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?cxf0ow');
   src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?cxf0ow#iefix') format('embedded-opentype'),
     url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?cxf0ow') format('truetype'),
     url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?cxf0ow') format('woff'),
     url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?cxf0ow##{$icomoon-font-family}') format('svg');
+=======
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?tc6o3o') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?tc6o3o') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?tc6o3o##{$icomoon-font-family}') format('svg');
+>>>>>>> parent of 7f3cd6c... add failed icon
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +34,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+<<<<<<< HEAD
 .sendicon-icon--motocycle {
   &:before {
     content: $sendicon-icon--motocycle; 
@@ -144,6 +153,11 @@
 .sendicon-icon-alarm {
   &:before {
     content: $sendicon-icon-alarm; 
+=======
+.sendicon-icon-checkbox-cancel {
+  &:before {
+    content: $sendicon-icon-checkbox-cancel; 
+>>>>>>> parent of 7f3cd6c... add failed icon
   }
 }
 .sendicon-icon-monitor {

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .sendicon-icon--motocycle {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe963;');
 }
@@ -68,6 +69,9 @@
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe979;');
 }
 .sendicon-icon-alarm {
+=======
+.sendicon-icon-checkbox-cancel {
+>>>>>>> parent of 7f3cd6c... add failed icon
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe962;');
 }
 .sendicon-icon-monitor {

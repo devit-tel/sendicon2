@@ -1,10 +1,18 @@
 @font-face {
   font-family: 'sendicon';
+<<<<<<< HEAD
   src:  url('fonts/sendicon.eot?cxf0ow');
   src:  url('fonts/sendicon.eot?cxf0ow#iefix') format('embedded-opentype'),
     url('fonts/sendicon.ttf?cxf0ow') format('truetype'),
     url('fonts/sendicon.woff?cxf0ow') format('woff'),
     url('fonts/sendicon.svg?cxf0ow#sendicon') format('svg');
+=======
+  src:  url('fonts/sendicon.eot?tc6o3o');
+  src:  url('fonts/sendicon.eot?tc6o3o#iefix') format('embedded-opentype'),
+    url('fonts/sendicon.ttf?tc6o3o') format('truetype'),
+    url('fonts/sendicon.woff?tc6o3o') format('woff'),
+    url('fonts/sendicon.svg?tc6o3o#sendicon') format('svg');
+>>>>>>> parent of 7f3cd6c... add failed icon
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +32,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+<<<<<<< HEAD
 .sendicon-icon--motocycle:before {
   content: "\e963";
 }
@@ -94,6 +103,9 @@
   content: "\e979";
 }
 .sendicon-icon-alarm:before {
+=======
+.sendicon-icon-checkbox-cancel:before {
+>>>>>>> parent of 7f3cd6c... add failed icon
   content: "\e962";
 }
 .sendicon-icon-monitor:before {

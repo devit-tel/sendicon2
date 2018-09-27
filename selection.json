@@ -849,6 +849,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
+<<<<<<< HEAD
           "icon-truck 4w"
         ],
         "colorPermutations": {
@@ -857,12 +858,17 @@
             {}
           ]
         }
+=======
+          "icon-checkbox-cancel"
+        ]
+>>>>>>> parent of 7f3cd6c... add failed icon
       },
       "attrs": [
         {},
         {}
       ],
       "properties": {
+<<<<<<< HEAD
         "order": 230,
         "id": 102,
         "name": "icon-truck-4w",
@@ -1095,6 +1101,11 @@
         "order": 4,
         "id": 98,
         "name": "icon-alarm",
+=======
+        "order": 216,
+        "id": 98,
+        "name": "icon-checkbox-cancel",
+>>>>>>> parent of 7f3cd6c... add failed icon
         "prevSize": 32,
         "code": 59746
       },
