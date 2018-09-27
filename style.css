@@ -1,18 +1,10 @@
 @font-face {
   font-family: 'sendicon';
-<<<<<<< HEAD
-  src:  url('fonts/sendicon.eot?cxf0ow');
-  src:  url('fonts/sendicon.eot?cxf0ow#iefix') format('embedded-opentype'),
-    url('fonts/sendicon.ttf?cxf0ow') format('truetype'),
-    url('fonts/sendicon.woff?cxf0ow') format('woff'),
-    url('fonts/sendicon.svg?cxf0ow#sendicon') format('svg');
-=======
   src:  url('fonts/sendicon.eot?tc6o3o');
   src:  url('fonts/sendicon.eot?tc6o3o#iefix') format('embedded-opentype'),
     url('fonts/sendicon.ttf?tc6o3o') format('truetype'),
     url('fonts/sendicon.woff?tc6o3o') format('woff'),
     url('fonts/sendicon.svg?tc6o3o#sendicon') format('svg');
->>>>>>> parent of 7f3cd6c... add failed icon
   font-weight: normal;
   font-style: normal;
 }
@@ -31,81 +23,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-<<<<<<< HEAD
-.sendicon-icon--motocycle:before {
-  content: "\e963";
-}
-.sendicon-icon-assign-01:before {
-  content: "\e964";
-}
-.sendicon-icon-assign-sub:before {
-  content: "\e965";
-}
-.sendicon-icon-attachment-01:before {
-  content: "\e966";
-}
-.sendicon-icon-backpack:before {
-  content: "\e967";
-}
-.sendicon-icon-bar-chart:before {
-  content: "\e968";
-}
-.sendicon-icon-calculator:before {
-  content: "\e969";
-}
-.sendicon-icon-clone:before {
-  content: "\e96a";
-}
-.sendicon-icon-filter:before {
-  content: "\e96b";
-}
-.sendicon-icon-folder:before {
-  content: "\e96c";
-}
-.sendicon-icon-heart:before {
-  content: "\e96d";
-}
-.sendicon-icon-loading-2:before {
-  content: "\e96e";
-}
-.sendicon-icon-Navi:before {
-  content: "\e96f";
-}
-.sendicon-icon-parcel-sorting:before {
-  content: "\e970";
-}
-.sendicon-icon-slash-mini:before {
-  content: "\e971";
-}
-.sendicon-icon-slash:before {
-  content: "\e972";
-}
-.sendicon-icon-sort:before {
-  content: "\e973";
-}
-.sendicon-icon-store:before {
-  content: "\e974";
-}
-.sendicon-icon-tag:before {
-  content: "\e975";
-}
-.sendicon-icon-truck-4w:before {
-  content: "\e976";
-}
-.sendicon-icon-truck-6w2:before {
-  content: "\e977";
-}
-.sendicon-icon-truck-6w:before {
-  content: "\e978";
-}
-.sendicon-icon-truck-10w:before {
-  content: "\e979";
-}
-.sendicon-icon-alarm:before {
-=======
 .sendicon-icon-checkbox-cancel:before {
->>>>>>> parent of 7f3cd6c... add failed icon
   content: "\e962";
 }
 .sendicon-icon-monitor:before {

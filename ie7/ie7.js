@@ -13,34 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'sendicon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-<<<<<<< HEAD
-		'sendicon-icon--motocycle': '&#xe963;',
-		'sendicon-icon-assign-01': '&#xe964;',
-		'sendicon-icon-assign-sub': '&#xe965;',
-		'sendicon-icon-attachment-01': '&#xe966;',
-		'sendicon-icon-backpack': '&#xe967;',
-		'sendicon-icon-bar-chart': '&#xe968;',
-		'sendicon-icon-calculator': '&#xe969;',
-		'sendicon-icon-clone': '&#xe96a;',
-		'sendicon-icon-filter': '&#xe96b;',
-		'sendicon-icon-folder': '&#xe96c;',
-		'sendicon-icon-heart': '&#xe96d;',
-		'sendicon-icon-loading-2': '&#xe96e;',
-		'sendicon-icon-Navi': '&#xe96f;',
-		'sendicon-icon-parcel-sorting': '&#xe970;',
-		'sendicon-icon-slash-mini': '&#xe971;',
-		'sendicon-icon-slash': '&#xe972;',
-		'sendicon-icon-sort': '&#xe973;',
-		'sendicon-icon-store': '&#xe974;',
-		'sendicon-icon-tag': '&#xe975;',
-		'sendicon-icon-truck-4w': '&#xe976;',
-		'sendicon-icon-truck-6w2': '&#xe977;',
-		'sendicon-icon-truck-6w': '&#xe978;',
-		'sendicon-icon-truck-10w': '&#xe979;',
-		'sendicon-icon-alarm': '&#xe962;',
-=======
 		'sendicon-icon-checkbox-cancel': '&#xe962;',
->>>>>>> parent of 7f3cd6c... add failed icon
 		'sendicon-icon-monitor': '&#xe961;',
 		'sendicon-icon-line': '&#xe95f;',
 		'sendicon-icon-routes': '&#xe960;',

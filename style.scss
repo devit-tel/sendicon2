@@ -2,19 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-<<<<<<< HEAD
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?cxf0ow');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?cxf0ow#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?cxf0ow') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?cxf0ow') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?cxf0ow##{$icomoon-font-family}') format('svg');
-=======
   src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o');
   src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o#iefix') format('embedded-opentype'),
     url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?tc6o3o') format('truetype'),
     url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?tc6o3o') format('woff'),
     url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?tc6o3o##{$icomoon-font-family}') format('svg');
->>>>>>> parent of 7f3cd6c... add failed icon
   font-weight: normal;
   font-style: normal;
 }
@@ -33,131 +25,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-<<<<<<< HEAD
-.sendicon-icon--motocycle {
-  &:before {
-    content: $sendicon-icon--motocycle; 
-  }
-}
-.sendicon-icon-assign-01 {
-  &:before {
-    content: $sendicon-icon-assign-01; 
-  }
-}
-.sendicon-icon-assign-sub {
-  &:before {
-    content: $sendicon-icon-assign-sub; 
-  }
-}
-.sendicon-icon-attachment-01 {
-  &:before {
-    content: $sendicon-icon-attachment-01; 
-  }
-}
-.sendicon-icon-backpack {
-  &:before {
-    content: $sendicon-icon-backpack; 
-  }
-}
-.sendicon-icon-bar-chart {
-  &:before {
-    content: $sendicon-icon-bar-chart; 
-  }
-}
-.sendicon-icon-calculator {
-  &:before {
-    content: $sendicon-icon-calculator; 
-  }
-}
-.sendicon-icon-clone {
-  &:before {
-    content: $sendicon-icon-clone; 
-  }
-}
-.sendicon-icon-filter {
-  &:before {
-    content: $sendicon-icon-filter; 
-  }
-}
-.sendicon-icon-folder {
-  &:before {
-    content: $sendicon-icon-folder; 
-  }
-}
-.sendicon-icon-heart {
-  &:before {
-    content: $sendicon-icon-heart; 
-  }
-}
-.sendicon-icon-loading-2 {
-  &:before {
-    content: $sendicon-icon-loading-2; 
-  }
-}
-.sendicon-icon-Navi {
-  &:before {
-    content: $sendicon-icon-Navi; 
-  }
-}
-.sendicon-icon-parcel-sorting {
-  &:before {
-    content: $sendicon-icon-parcel-sorting; 
-  }
-}
-.sendicon-icon-slash-mini {
-  &:before {
-    content: $sendicon-icon-slash-mini; 
-  }
-}
-.sendicon-icon-slash {
-  &:before {
-    content: $sendicon-icon-slash; 
-  }
-}
-.sendicon-icon-sort {
-  &:before {
-    content: $sendicon-icon-sort; 
-  }
-}
-.sendicon-icon-store {
-  &:before {
-    content: $sendicon-icon-store; 
-  }
-}
-.sendicon-icon-tag {
-  &:before {
-    content: $sendicon-icon-tag; 
-  }
-}
-.sendicon-icon-truck-4w {
-  &:before {
-    content: $sendicon-icon-truck-4w; 
-  }
-}
-.sendicon-icon-truck-6w2 {
-  &:before {
-    content: $sendicon-icon-truck-6w2; 
-  }
-}
-.sendicon-icon-truck-6w {
-  &:before {
-    content: $sendicon-icon-truck-6w; 
-  }
-}
-.sendicon-icon-truck-10w {
-  &:before {
-    content: $sendicon-icon-truck-10w; 
-  }
-}
-.sendicon-icon-alarm {
-  &:before {
-    content: $sendicon-icon-alarm; 
-=======
 .sendicon-icon-checkbox-cancel {
   &:before {
     content: $sendicon-icon-checkbox-cancel; 
->>>>>>> parent of 7f3cd6c... add failed icon
   }
 }
 .sendicon-icon-monitor {
