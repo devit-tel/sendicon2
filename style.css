@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'sendicon';
-  src:  url('fonts/sendicon.eot?tc6o3o');
-  src:  url('fonts/sendicon.eot?tc6o3o#iefix') format('embedded-opentype'),
-    url('fonts/sendicon.ttf?tc6o3o') format('truetype'),
-    url('fonts/sendicon.woff?tc6o3o') format('woff'),
-    url('fonts/sendicon.svg?tc6o3o#sendicon') format('svg');
+  src:  url('fonts/sendicon.eot?ac3b12');
+  src:  url('fonts/sendicon.eot?ac3b12#iefix') format('embedded-opentype'),
+    url('fonts/sendicon.ttf?ac3b12') format('truetype'),
+    url('fonts/sendicon.woff?ac3b12') format('woff'),
+    url('fonts/sendicon.svg?ac3b12#sendicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,7 +23,17 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.sendicon-icon-checkbox-cancel:before {
+
+.sendicon-icon-dashboard-5:before {
+  content: "\e963";
+}
+.sendicon-icon-door:before {
+  content: "\e964";
+}
+.sendicon-icon-thermomter:before {
+  content: "\e965";
+}
+.sendicon-icon-failed:before {
   content: "\e962";
 }
 .sendicon-icon-monitor:before {
@@ -86,7 +96,7 @@
 .sendicon-icon-add:before {
   content: "\e901";
 }
-.sendicon-icon-alarm2:before {
+.sendicon-icon-alarm:before {
   content: "\e902";
 }
 .sendicon-icon-arrow-left:before {
@@ -190,7 +200,6 @@
 }
 .sendicon-icon-getting-location:before {
   content: "\e924";
-  color: #fff;
 }
 .sendicon-icon-group:before {
   content: "\e925";

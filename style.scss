@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?tc6o3o#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?tc6o3o') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?tc6o3o') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?tc6o3o##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ac3b12');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ac3b12#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ac3b12') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ac3b12') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ac3b12##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,9 +25,25 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.sendicon-icon-checkbox-cancel {
+
+.sendicon-icon-dashboard-5 {
   &:before {
-    content: $sendicon-icon-checkbox-cancel; 
+    content: $sendicon-icon-dashboard-5; 
+  }
+}
+.sendicon-icon-door {
+  &:before {
+    content: $sendicon-icon-door; 
+  }
+}
+.sendicon-icon-thermomter {
+  &:before {
+    content: $sendicon-icon-thermomter; 
+  }
+}
+.sendicon-icon-failed {
+  &:before {
+    content: $sendicon-icon-failed; 
   }
 }
 .sendicon-icon-monitor {
@@ -130,9 +146,9 @@
     content: $sendicon-icon-add; 
   }
 }
-.sendicon-icon-alarm2 {
+.sendicon-icon-alarm {
   &:before {
-    content: $sendicon-icon-alarm2; 
+    content: $sendicon-icon-alarm; 
   }
 }
 .sendicon-icon-arrow-left {
@@ -302,8 +318,7 @@
 }
 .sendicon-icon-getting-location {
   &:before {
-    content: $sendicon-icon-getting-location;     
-    color: #fff;
+    content: $sendicon-icon-getting-location; 
   }
 }
 .sendicon-icon-group {

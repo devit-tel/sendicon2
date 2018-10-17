@@ -13,7 +13,10 @@
 		el.innerHTML = '<span style="font-family: \'sendicon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'sendicon-icon-checkbox-cancel': '&#xe962;',
+		'sendicon-icon-dashboard-5': '&#xe963;',
+		'sendicon-icon-door': '&#xe964;',
+		'sendicon-icon-thermomter': '&#xe965;',
+		'sendicon-icon-failed': '&#xe962;',
 		'sendicon-icon-monitor': '&#xe961;',
 		'sendicon-icon-line': '&#xe95f;',
 		'sendicon-icon-routes': '&#xe960;',
@@ -34,7 +37,7 @@
 		'sendicon-icon-star': '&#xe95a;',
 		'sendicon-icon-7': '&#xe900;',
 		'sendicon-icon-add': '&#xe901;',
-		'sendicon-icon-alarm2': '&#xe902;',
+		'sendicon-icon-alarm': '&#xe902;',
 		'sendicon-icon-arrow-left': '&#xe903;',
 		'sendicon-icon-arrow-right': '&#xe904;',
 		'sendicon-icon-attachment': '&#xe905;',
