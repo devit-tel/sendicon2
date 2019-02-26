@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?dprhdg');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?dprhdg#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?dprhdg') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?dprhdg') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?dprhdg##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?irfkdj');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?irfkdj#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?irfkdj') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?irfkdj') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?irfkdj##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.sendicon-icon-database {
+  &:before {
+    content: $sendicon-icon-database; 
+  }
+}
 .sendicon-icon-import {
   &:before {
     content: $sendicon-icon-import; 
