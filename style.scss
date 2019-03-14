@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?irfkdj');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?irfkdj#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?irfkdj') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?irfkdj') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?irfkdj##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?g8clj7');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?g8clj7#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?g8clj7') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?g8clj7') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?g8clj7##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.sendicon-icon-pin1 {
+  &:before {
+    content: $sendicon-icon-pin1; 
+  }
+}
+.sendicon-icon-toggle {
+  &:before {
+    content: $sendicon-icon-toggle; 
+  }
+}
+.sendicon-icon-work {
+  &:before {
+    content: $sendicon-icon-work; 
+  }
+}
+.sendicon-icon-parcel-2 {
+  &:before {
+    content: $sendicon-icon-parcel-2; 
+  }
+}
 .sendicon-icon-database {
   &:before {
     content: $sendicon-icon-database; 
