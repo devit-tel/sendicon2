@@ -1,3 +1,6 @@
+.sendicon-icon-toggle-off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96c;');
+}
 .sendicon-icon-pin1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96a;');
 }
