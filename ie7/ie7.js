@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'sendicon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'sendicon-icon-mapping': '&#xe96d;',
 		'sendicon-icon-toggle-off': '&#xe96c;',
 		'sendicon-icon-pin1': '&#xe96a;',
 		'sendicon-icon-toggle': '&#xe96b;',
