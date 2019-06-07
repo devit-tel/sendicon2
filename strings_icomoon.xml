@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="sendicon-icon-loading-2">&#xe953;</string>
-<string name="sendicon-icon-dropdown">&#xe954;</string>
-<string name="sendicon-icon-slash-mini">&#xe950;</string>
-<string name="sendicon-icon-slash">&#xe951;</string>
-<string name="sendicon-icon-truck">&#xe952;</string>
+<string name="sendicon-icon-mapping">&#xe96d;</string>
+<string name="sendicon-icon-toggle-off">&#xe96c;</string>
+<string name="sendicon-icon-pin1">&#xe96a;</string>
+<string name="sendicon-icon-toggle">&#xe96b;</string>
+<string name="sendicon-icon-work">&#xe968;</string>
+<string name="sendicon-icon-parcel-2">&#xe969;</string>
+<string name="sendicon-icon-database">&#xe967;</string>
+<string name="sendicon-icon-import">&#xe966;</string>
+<string name="sendicon-icon-dashboard-5">&#xe963;</string>
+<string name="sendicon-icon-door">&#xe964;</string>
+<string name="sendicon-icon-thermomter">&#xe965;</string>
+<string name="sendicon-icon-failed">&#xe962;</string>
+<string name="sendicon-icon-monitor">&#xe961;</string>
+<string name="sendicon-icon-line">&#xe95f;</string>
+<string name="sendicon-icon-routes">&#xe960;</string>
+<string name="sendicon-icon-route">&#xe95e;</string>
+<string name="sendicon-icon-assign-door">&#xe95d;</string>
+<string name="sendicon-icon-multicase">&#xe95c;</string>
+<string name="sendicon-icon-question">&#xe95b;</string>
+<string name="sendicon-icon-toast">&#xe950;</string>
+<string name="sendicon-icon-trade">&#xe951;</string>
+<string name="sendicon-icon-transfer">&#xe952;</string>
+<string name="sendicon-icon-u-turn">&#xe953;</string>
+<string name="sendicon-icon-ui">&#xe954;</string>
+<string name="sendicon-icon-ux">&#xe955;</string>
+<string name="sendicon-icon-vehicle">&#xe956;</string>
+<string name="sendicon-icon-wheat">&#xe957;</string>
+<string name="sendicon-icon-rocket">&#xe958;</string>
+<string name="sendicon-icon-setting">&#xe959;</string>
+<string name="sendicon-icon-star">&#xe95a;</string>
 <string name="sendicon-icon-7">&#xe900;</string>
 <string name="sendicon-icon-add">&#xe901;</string>
 <string name="sendicon-icon-alarm">&#xe902;</string>
@@ -85,5 +110,4 @@
 <string name="sendicon-icon-warehouse">&#xe94d;</string>
 <string name="sendicon-icon-world-minimal">&#xe94e;</string>
 <string name="sendicon-icon-world">&#xe94f;</string>
-<string name="sendicon-icon-multicase">&#xe95c;</string>
 </resources>
