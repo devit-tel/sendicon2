@@ -13,7 +13,15 @@
 		el.innerHTML = '<span style="font-family: \'sendicon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'sendicon-icon-rollback': '&#xe96e;',
+		'sendicon-icon-available_route': '&#xe96e;',
+		'sendicon-icon-error': '&#xe96f;',
+		'sendicon-icon-new_parcel': '&#xe970;',
+		'sendicon-icon-on_progress': '&#xe971;',
+		'sendicon-icon-pre_active_route': '&#xe972;',
+		'sendicon-icon-pre_shipment_route': '&#xe973;',
+		'sendicon-icon-report': '&#xe974;',
+		'sendicon-icon-success': '&#xe975;',
+		'sendicon-icon-total_parcel': '&#xe976;',
 		'sendicon-icon-mapping': '&#xe96d;',
 		'sendicon-icon-toggle-off': '&#xe96c;',
 		'sendicon-icon-pin1': '&#xe96a;',

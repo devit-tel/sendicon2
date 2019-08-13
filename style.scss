@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?679b18');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?679b18#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?679b18') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?679b18') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?679b18##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?y1rk5');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?y1rk5#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?y1rk5') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?y1rk5') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?y1rk5##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,9 +26,49 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.sendicon-icon-rollback {
+.sendicon-icon-available_route {
   &:before {
-    content: $sendicon-icon-rollback; 
+    content: $sendicon-icon-available_route; 
+  }
+}
+.sendicon-icon-error {
+  &:before {
+    content: $sendicon-icon-error; 
+  }
+}
+.sendicon-icon-new_parcel {
+  &:before {
+    content: $sendicon-icon-new_parcel; 
+  }
+}
+.sendicon-icon-on_progress {
+  &:before {
+    content: $sendicon-icon-on_progress; 
+  }
+}
+.sendicon-icon-pre_active_route {
+  &:before {
+    content: $sendicon-icon-pre_active_route; 
+  }
+}
+.sendicon-icon-pre_shipment_route {
+  &:before {
+    content: $sendicon-icon-pre_shipment_route; 
+  }
+}
+.sendicon-icon-report {
+  &:before {
+    content: $sendicon-icon-report; 
+  }
+}
+.sendicon-icon-success {
+  &:before {
+    content: $sendicon-icon-success; 
+  }
+}
+.sendicon-icon-total_parcel {
+  &:before {
+    content: $sendicon-icon-total_parcel; 
   }
 }
 .sendicon-icon-mapping {
