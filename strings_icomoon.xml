@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="sendicon-icon-available_route">&#xe96e;</string>
+<string name="sendicon-icon-error">&#xe96f;</string>
+<string name="sendicon-icon-new_parcel">&#xe970;</string>
+<string name="sendicon-icon-on_progress">&#xe971;</string>
+<string name="sendicon-icon-pre_active_route">&#xe972;</string>
+<string name="sendicon-icon-pre_shipment_route">&#xe973;</string>
+<string name="sendicon-icon-report">&#xe974;</string>
+<string name="sendicon-icon-success">&#xe975;</string>
+<string name="sendicon-icon-total_parcel">&#xe976;</string>
 <string name="sendicon-icon-mapping">&#xe96d;</string>
 <string name="sendicon-icon-toggle-off">&#xe96c;</string>
 <string name="sendicon-icon-pin1">&#xe96a;</string>
