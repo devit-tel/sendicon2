@@ -1,3 +1,6 @@
+.sendicon-icon-advance_sorting {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe977;');
+}
 .sendicon-icon-available_route {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96e;');
 }
