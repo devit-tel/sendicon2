@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?q19rz');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?q19rz#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?q19rz') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?q19rz') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?q19rz##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?2ospf5');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?2ospf5#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?2ospf5') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?2ospf5') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?2ospf5##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,6 +27,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.sendicon-icon_trailer {
+  &:before {
+    content: $sendicon-icon_trailer; 
+  }
+}
 .sendicon-icon-advance_sorting {
   &:before {
     content: $sendicon-icon-advance_sorting; 
